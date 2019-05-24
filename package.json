@@ -1,0 +1,23 @@
+{
+  "name": "comp-2068-blog-monday",
+  "version": "1.0.0",
+  "description": "Blogging project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcsmckinnon/comp-2068-blog-monday.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcsmckinnon/comp-2068-blog-monday/issues"
+  },
+  "homepage": "https://github.com/gcsmckinnon/comp-2068-blog-monday#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
